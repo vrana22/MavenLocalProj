@@ -3,6 +3,4 @@
   <groupId>com.first.maven.proj</groupId>
   <artifactId>java-maven-first</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <description>								</description>
-  <packaging>pom</packaging>
 </project>
